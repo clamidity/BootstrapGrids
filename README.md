@@ -1,4 +1,4 @@
 BootstrapGrids
 ==============
 
-Bootstrap CSS Grids for different amounts of rows (such as 10 rows or 14)
+Bootstrap CSS Grids for different amounts of columns (such as 10 or 14)
